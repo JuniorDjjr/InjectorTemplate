@@ -1,10 +1,10 @@
 # InjectorTemplate
-Simple quickstarter template for injector. Useful for patching and modding games and other softwares.  
+Simple quickstarter template for Injector. Useful for patching and modding games and other softwares.  
 
 This project uses Injector, a high level and modern injector library, useful for game/software patching, hooking etc.  
 https://github.com/thelink2012/injector  
 
-And IniReader, an simple ini parser:  
+And IniReader, a simple ini parser:  
 https://github.com/ThirteenAG/IniReader  
 
 This project was initially worked by me for faster creation of patches and mods for games not originally supported for coding mods.  

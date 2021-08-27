@@ -14,6 +14,8 @@ https://github.com/ThirteenAG/Ultimate-ASI-Loader
 
 If your case is .dll for some software or games that Ultimate ASI Loader does not support (which is very rare), change the build file extension and use some appropriate DLL injector.  
 
+**I recommend to compile with /MT or /MTd to avoid library dependencies.**  
+
 This is a simple quickstart solution, not an advanced tool. If you intend to use it to develop game patches and mods, first check if such a game already has any sdk for it.  
 
 Use example:  
